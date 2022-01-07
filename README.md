@@ -1,5 +1,5 @@
 # reglogin_app
-ออม มาร์วินวัฒนากิจจิรานนท์ 
+ออม มาร์วิน วัฒนากิจจิรานนท์ 
 <hr>
 เทคโนโลยีที่ใช้ :
 HTML CSS React Nextjs Express Mongoose MongoDB(Atlas)
