@@ -14,8 +14,18 @@ https://drive.google.com/drive/folders/1das_2j2jr06l8mpbJWvCgTSK26LXs19C?usp=sha
 npx create-next-app
 ```
 
+Package Installation on both Frontend and Backend directories
+```
+npm install
+```
+
 Start server on both Frontend and Backend directories
 ```
 npm run dev
+```
+
+เข้าสู่โปรเจค
+```
+http://localhost:3000/
 ```
 
