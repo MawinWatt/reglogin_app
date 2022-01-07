@@ -1,7 +1,7 @@
 # reglogin_app
 ออม มาร์วินวัฒนากิจจิรานนท์ 
 <hr>
-ภาษาที่ใช้ :
+เทคโนโลยีที่ใช้ :
 HTML CSS React Nextjs Express Mongoose MongoDB
 <hr>
 ลิงค์รูปภาพ 
