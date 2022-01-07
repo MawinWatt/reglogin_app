@@ -2,7 +2,7 @@
 ออม มาร์วินวัฒนากิจจิรานนท์ 
 <hr>
 ภาษาที่ใช้ :
-HTML CSS React Nextjs Mongoose MongoDB
+HTML CSS React Nextjs Express Mongoose MongoDB
 <hr>
 ลิงค์รูปภาพ 
 https://drive.google.com/drive/folders/1das_2j2jr06l8mpbJWvCgTSK26LXs19C?usp=sharing
