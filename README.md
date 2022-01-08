@@ -21,6 +21,7 @@ npm install
 ```
 
 MongoDB Atlas (MONGODB_URL) |
+ในไฟล์ next.config.js
  password --> <password> : Aom123456
 ```
 mongodb+srv://mwDB:<password>@mwdb.jwqoh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
